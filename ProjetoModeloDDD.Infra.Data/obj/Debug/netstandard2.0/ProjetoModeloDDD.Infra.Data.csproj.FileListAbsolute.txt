@@ -1,0 +1,4 @@
+C:\Users\matheus.araujo\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\netstandard2.0\ProjetoModeloDDD.Domain.dll
+C:\Users\matheus.araujo\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\Debug\netstandard2.0\ProjetoModeloDDD.Infra.Data.csprojAssemblyReference.cache
+C:\Users\matheus.araujo\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\Debug\netstandard2.0\ProjetoModeloDDD.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\matheus.araujo\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\Debug\netstandard2.0\ProjetoModeloDDD.Infra.Data.AssemblyInfo.cs
